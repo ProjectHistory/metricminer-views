@@ -14,7 +14,7 @@
 	</category>
 
 	<category name="org.vraptor">
-		<priority value="INFO" />
+		<priority value="DEBUG" />
 		<appender-ref ref="FA" />
 	</category>
 
@@ -24,7 +24,7 @@
 	</category>
 
 	<category name="br.com.caelum.vraptor">
-		<priority value="INFO" />
+		<priority value="DEBUG" />
 		<appender-ref ref="FA" />
 	</category>
 

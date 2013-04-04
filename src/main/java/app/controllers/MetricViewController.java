@@ -1,8 +1,8 @@
 package app.controllers;
 
-import javax.annotation.Resource;
 
 import br.com.caelum.vraptor.Path;
+import br.com.caelum.vraptor.Resource;
 
 import app.models.Project;
 
